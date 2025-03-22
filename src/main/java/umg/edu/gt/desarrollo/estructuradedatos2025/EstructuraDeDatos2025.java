@@ -9,7 +9,6 @@ import java.util.Arrays;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 
-import umg.edu.gt.desarrollo.Utilidades.CompararStrings;
 import umg.edu.gt.desarrollo.estructuradedatos2025.clases.ClaseVectores;
 import umg.edu.gt.desarrollo.estructuradedatos2025.ejercicios.EjercicioVectores;
 
